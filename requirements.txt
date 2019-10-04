@@ -1,8 +1,0 @@
-bqplot==0.11.8
-ipython==7.4.0
-ipython-genutils==0.2.0
-ipywidgets==7.4.2
-matplotlib==3.0.3
-numpy==1.16.2
-numpydoc==0.8.0
-pandas==0.24.2
