@@ -1,2 +1,0 @@
-pip install jupyter_dashboards
-jupyter dashboards quick-setup --sys-prefix
